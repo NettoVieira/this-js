@@ -1,7 +1,6 @@
 # this (javascript)
 
 ## O que é "this"?
-- Teste sa
 
 `this` em inglês significa: `isto, esta`
 
